@@ -26,6 +26,8 @@ nav:
     href:           "/"
   - name:           "about"
     href:           "/about"
+  - name:           "news"
+    href:           "/news"
   # - name:           "research"
   #   href:           "/research"
   # - name:           "publications"
