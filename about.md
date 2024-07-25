@@ -5,6 +5,8 @@ permalink: /about/
 
 
 
+![banner](images/banner.jpg)
+
 Gaoxin Alumni Network is a platform dedicated to fostering resource connections and exchanges among alumni. Our primary goal is to facilitate interaction and collaboration in various forms, enabling alumni to learn from and grow with each other in their respective fields. We regularly organize lectures and presentations, inviting experienced alumni from diverse industries such as finance, project management, technological innovation, market channels, and industrial policy to share their professional knowledge and practical experiences.
 
 Through these activities, alumni can not only broaden their horizons and stay updated with the latest industry trends but also build a robust network of relationships, promoting the connection and sharing of various resources. Whether seeking business opportunities, career guidance, or the latest developments in different fields, our association is committed to providing support and assistance to each member.
